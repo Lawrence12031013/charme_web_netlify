@@ -1,0 +1,7 @@
+[[redirects]]
+    from = "/auth/login/*"
+    to = "https://charme-api-vercel.vercel.app/"
+    status = 200
+    force = true
+    header = {X-From = "Netlify"}
+
