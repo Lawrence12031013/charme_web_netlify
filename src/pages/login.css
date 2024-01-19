@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@500&display=swap');
+
+body {
+  background-color: #F4E9E7;
+}
+
+.font-dance {
+  font-family: 'Dancing Script', cursive;
+}
+
+input {
+  font-family: 'Roboto', sans-serif;
+}
+
+.font-robo {
+  font-family: 'Roboto', sans-serif;
+}
+
+.login_button {
+  border: 1px solid #EBD0C9;
+  background-color: #f4bdb4;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}

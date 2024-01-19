@@ -1,0 +1,4 @@
+/auth/login/* https://charme-api-vercel.vercel.app/api/v1:splat 200!
+/auth/register/* https://charme-api-vercel.vercel.app/api/v1:splat 200!
+/time/* https://charme-api-vercel.vercel.app/api/v1:splat 200!
+/order/* https://charme-api-vercel.vercel.app/api/v1:splat 200!

@@ -1,0 +1,12 @@
+.background {
+    background-image: url('/public/images/Charme-bcg.jpg');
+    background-size: cover;
+}
+
+.transform {
+    transform: translate(-50%, -50%);
+}
+
+.cancel_middle {
+    transform: translateX(-50%);
+}

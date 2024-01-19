@@ -1,0 +1,6 @@
+export const start_login = 'start_login'
+export const login_success = 'login_success'
+export const login_failure = 'login_failure'
+export const logout = 'logout'
+export const new_detail = 'new_detail'
+export const reset_detail = 'reset_detail'

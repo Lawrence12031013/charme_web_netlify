@@ -1,0 +1,13 @@
+.bg-today {
+    background-color: #EBD0C9;
+    color: #fff;
+}
+
+.selectDate {
+    border-bottom: 2px solid #deaea2;
+}
+
+
+.dayE {
+    width: 55px;
+} 
