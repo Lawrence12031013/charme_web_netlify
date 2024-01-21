@@ -1,1 +1,1 @@
-/auth/login/* https://charme-api-vercel.vercel.app/api/v1/auth/login/:splat 200!git
+/auth/login/* https://charme-api-vercel.vercel.app/api/v1/auth/login/:splat 200
