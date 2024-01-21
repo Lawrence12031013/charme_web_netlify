@@ -5,8 +5,6 @@ import App from './App';
 import { LoginContextProvider } from './context/LoginContext';
 import reportWebVitals from './reportWebVitals.js'
 
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
