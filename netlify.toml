@@ -1,5 +1,5 @@
 [[redirects]]
-    from = "https://charmebeauty.netlify.app/auth/login"
+    from = "https://65adcda431747ecf613598c2--charmebeauty.netlify.app/auth/login"
     to = "https://charme-api-vercel.vercel.app/api/v1/"
     status = 200
     force = true
