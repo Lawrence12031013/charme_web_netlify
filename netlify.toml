@@ -1,6 +1,6 @@
 [[redirects]]
     from = "/*"
-    to = "https://charme-api-vercel.vercel.app/api/v1/"
+    to = "https://charme-api-vercel.vercel.app/api/v1/:splat"
     status = 200
     force = true
     header = {X-From = "Netlify"}
